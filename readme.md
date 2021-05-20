@@ -1,0 +1,1 @@
+To unzip data `tar -xf gutenberg_dataset.tar.gz books`
